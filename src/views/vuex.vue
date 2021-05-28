@@ -1,5 +1,7 @@
 <template>
-  <div>Vuex</div>
+  <div>
+      <div>This is Vuex</div>
+  </div>
 </template>
 
 <script>
