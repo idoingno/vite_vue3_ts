@@ -110,6 +110,7 @@ chore(release): v3.4.2
 
 执行 git commit 时使用 emoji 为本次提交打上一个 "标签", 使得此次 commit 的主要工作得以凸现，也能够使得其在整个提交历史中易于区分与查找。
 
+```
 emoji	emoji 代码	commit 说明
 🎉 (庆祝)	:tada:	初次提交
 ✨ (火花)	:sparkles:	引入新功能
@@ -144,3 +145,4 @@ emoji	emoji 代码	commit 说明
 🍎 (苹果)	:apple:	修复 macOS 下的问题
 🐧 (企鹅)	:penguin:	修复 Linux 下的问题
 🏁 (旗帜)	:checked_flag:	修复 Windows 下的问题
+```
